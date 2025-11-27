@@ -1,5 +1,4 @@
 # Detector de Bordas Canny
-
 Projeto simples de Computação Gráfica que implementa detecção de bordas em imagens usando o algoritmo Canny do scikit-image.
 
 ## O que faz?
